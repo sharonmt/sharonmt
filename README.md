@@ -1,8 +1,5 @@
 ### Hello 👋
 
-<!--
-**sharonmt/sharonmt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 i am pleased to see that we are different.
 
 may we together become
@@ -13,7 +10,8 @@ out.
 
 ![CleanShot 2021-09-03 at 15 46 09](https://user-images.githubusercontent.com/87956891/132004765-0162c213-d473-4d6e-bb71-4a2051c46b0e.jpg)
 
-
+<!--
+**sharonmt/sharonmt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
