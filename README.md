@@ -1,9 +1,18 @@
-### Hi there 👋
+### Hello 👋
 
 <!--
 **sharonmt/sharonmt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+i am pleased to see that we are different.
+
+may we together become
+
+greater than the sum of us.
+
+out.
+
+![CleanShot 2021-09-03 at 15 46 09](https://user-images.githubusercontent.com/87956891/132004765-0162c213-d473-4d6e-bb71-4a2051c46b0e.jpg)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
